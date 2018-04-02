@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522613608 source:c:\users\ljda0\documents\ce101\cvtest\main.cpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui_c.h>
+	<opencv2/features2d.hpp>
+	<vector>
+	<iostream>
+
+1522636971 source:c:\users\ljda0\documents\ce101\cvtest\src\main.cpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui_c.h>
+	<opencv2/features2d.hpp>
+	<vector>
+	<iostream>
+
